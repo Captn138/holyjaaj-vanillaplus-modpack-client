@@ -1,0 +1,48 @@
+{
+	"schema_version": 1,
+	"failed_reloads_per_session": 5,
+	"default_packs": [
+		"vanilla",
+		"fabric",
+		"continuity:default",
+		"continuity:glass_pane_culling_fix",
+		"$polymer-resources",
+		"file/Fancy+Boss+Bars+v0.1.1.zip",
+		"black_icons"
+	],
+	"default_overrides": {
+		"force_compatible": true
+	},
+	"pack_overrides": {
+		"high_contrast": {
+			"hidden": true
+		},
+		"programmer_art": {
+			"hidden": true
+		},
+		"1": [
+			"vanilla",
+			"fabric"
+		],
+		"$1": {
+			"required": true,
+			"force_compatible": true,
+			"default_position": "BOTTOM",
+			"hidden": true,
+			"fixed_position": true
+		},
+		"2": [
+			"continuity:default",
+			"continuity:glass_pane_culling_fix",
+			"$polymer-resources",
+			"file/Fancy+Boss+Bars+v0.1.1.zip"
+		],
+		"$2": {
+			"required": true,
+			"force_compatible": true,
+			"default_position": "TOP",
+			"hidden": true,
+			"fixed_position": true
+		}
+	}
+}
