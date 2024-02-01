@@ -9,7 +9,7 @@ Then run the `start.sh` to install and run the server.
 
 ## Mods list
 > -c is for client, -s if for server, -cs is for both
-**__List of all the mods (132) :__** 
+**__List of all the mods (135) :__** 
 - [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) -c
 - [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs) -c
 - [Anti Ghost](https://www.curseforge.com/minecraft/mc-mods/antighost) -c
@@ -17,6 +17,7 @@ Then run the `start.sh` to install and run the server.
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) -cs
 - [Archer's Arsenal](https://www.curseforge.com/minecraft/mc-mods/archarsenal) -cs
 - [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api) -cs
+- [AzureLib](https://www.curseforge.com/minecraft/mc-mods/azurelib) -cs
 - [Bad Packets](https://www.curseforge.com/minecraft/mc-mods/badpackets) -cs
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric) -cs
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) -c
@@ -85,6 +86,7 @@ Then run the `start.sh` to install and run the server.
 - [Ledger Databases](https://www.curseforge.com/minecraft/mc-mods/ledger-databases) -s
 - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric) -c
 - [LevelZ](https://www.curseforge.com/minecraft/mc-mods/levelz) -cs
+- [LibZ](https://www.curseforge.com/minecraft/mc-mods/libz) -cs
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) -c
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) -cs
 - [Login Protection](https://curseforge.com/minecraft/mc-mods/login-protection) -s
@@ -100,6 +102,7 @@ Then run the `start.sh` to install and run the server.
 - [More Advancements](https://www.curseforge.com/minecraft/mc-mods/more-advancements-mod-fabric) -cs
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) -c
 - [Nameplate](https://www.curseforge.com/minecraft/mc-mods/nameplate) -cs
+- [Necronomicon API](https://www.curseforge.com/minecraft/mc-mods/necronomicon) -cs
 - [Nicer Skies](https://www.curseforge.com/minecraft/mc-mods/nicer-skies) -c
 - [No Chat reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) -cs
 - [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) -c
